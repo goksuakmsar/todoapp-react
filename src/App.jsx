@@ -19,7 +19,6 @@ function App() {
 
       {/* <Inputvalue /> */}
       <div className="container mt-5">
-        <p>deneme</p>
         <ToDo />
       </div>
 
